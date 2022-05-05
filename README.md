@@ -1,4 +1,4 @@
 # PYTHON
-Arquivo "exercicios" Contém exercícios de aprendizado utilizando python para treinar cálculos matemáticos.
+Arquivo "exercicios" contém exercícios de aprendizado utilizando python para treinar cálculos matemáticos.
 
-Clicando no "open in colab" você será redirecionado para a página do colab e poderá testar os códigos de cada exercício.
+Dentro do arquivo. Clicando no "open in colab" você será redirecionado para a página do colab e poderá testar os códigos de cada exercício.
